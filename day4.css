@@ -1,0 +1,49 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint&family=Tiny5&display=swap');
+h1{
+    font-family: "Rubik Wet Paint", system-ui;
+
+
+}
+p{
+
+    font-family: "Tiny5", sans-serif;
+    color: aqua;
+}
+span{
+    color: aqua;
+
+
+}
+table{   
+    width: 100%;
+}
+th,td{
+
+    padding: 20px;
+    text-align: center;
+}
+th{  
+text-transform: uppercase;
+background-color: aqua;
+}
+table,th,td{
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+tr:nth-child(even)
+{
+background-color: blue;
+
+}
+tr :nth-child(odd)
+{
+
+    background-color:red;
+}
+ 
+
+
+
+
